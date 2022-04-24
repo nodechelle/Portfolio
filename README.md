@@ -48,7 +48,7 @@ In an effort to better serve our district by furthering my understanding of the 
 
 <br>
 ## Screenshot
-![portfolio](Coming Soon!)
+![portfolio](assets/images/Portfolio.png)
 
 <br>
 
