@@ -14,6 +14,24 @@ In an effort to better serve our district by furthering my understanding of the 
 ## Skills and Experience
 
 🎓Georgia Tech Full Stack Coding Bootcamp (in progress)
+* Fun fact - you can see the evolution of my coding journey by visiting my [first draft developers portfolio](https://github.com/mblackwellgca/initialPortfolio). I have come a long way already! 
+* As the Learning Management Systems Administrator, my responsibilities include working with vendors, fellow team members, and staff to ensure product implementation. 
+    * utilizing API calls to CRUD within our instance of Canvas LMS 
+    * establish LTI connections with our curriculum providers 
+    * establish LTI connections with LMS extensions 
+    * developing district-wide training courses within Canvas LMS for all stakeholders including students, parents, and staff. 
+
+* Currently, I serve our district by working with vendors to ensure curriculum products integrate with our 
+    * Student Information System Infinite Campus
+    * Clever for rostering and SSO
+    * Jigsaw Interactive as our virtual classroom
+
+* Additionally, I ensure integration with our curriculum providers such as 
+    * eDynamic Learning
+    * Houghton Mifflin Harcourt
+    * Florida Virtual School
+    * Edgenuity
+
 
 ### Technologies and Languages
 
@@ -34,7 +52,7 @@ In an effort to better serve our district by furthering my understanding of the 
 
 <br>
 
-### :point_right: [Visit my portfolio here!](https://github.com/mblackwellgca/Portfolio) :point_left:
+### :point_right: [Visit my portfolio here!](https://mblackwellgca.github.io/Portfolio/) :point_left:
 
 
 ## Resources
