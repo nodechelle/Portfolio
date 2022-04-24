@@ -26,7 +26,8 @@ In an effort to better serve our district by furthering my understanding of the 
 |               |               | Sequelize |
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mblackwellgca=anuraghazra&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mblackwellgca&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 ## Screenshot
 ![portfolio](Coming Soon!)
@@ -47,4 +48,4 @@ In an effort to better serve our district by furthering my understanding of the 
 ## License
  This application is covererd under MIT. Click the badge to learn more. 
 
- [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+ [![License](https://img.shields.io/badge/License-MIT-blueviolet.svg)](https://opensource.org/licenses/MIT)
