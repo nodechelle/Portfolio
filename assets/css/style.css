@@ -1,0 +1,121 @@
+#hero {
+    display: flex;
+    align-items: center;
+    border-bottom: 0px;
+    background: lightgray;
+    height: 200px;
+    font-weight: 400;
+    color: darkblue;
+    padding: 0rem 5.6rem;
+    z-index: -1;
+    margin: 0;
+}
+.hero-title {
+    font-weight: 700;
+    margin-bottom: 3.2rem;
+    text-align: left;
+}
+.hero-cta {
+    display: flex;
+}
+
+.section-title {
+    margin: 0px;
+    margin-bottom: 4.5rem;
+    font-size: large;
+    font-weight: bold;
+    text-transform: uppercase;
+  } 
+  
+#about {
+    background-color: #02aab0;
+    background-image: linear-gradient(135deg, #02aab0, #00cdac);
+    color: black;
+    height: 100%;
+    border-top: 0px;
+    padding-bottom: 8%;
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
+    font-size: 24px;
+    font-family: 'Cookie';
+    
+    }
+  
+.about-wrapper {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    }
+
+#contact {
+    background-image: linear-gradient(135deg, #02aab0, #00cdac);
+    -webkit-clip-path: polygon(0 15vh, 100% 0, 100% 100%, 0 100%);
+    clip-path: polygon(0 15vh, 100% 0, 100% 100%, 0 100%);
+    padding: 15rem 0 10rem 0;
+    margin-top: -10rem;
+    margin-bottom: -1px;
+    color: black;
+}
+.contact-wrapper {
+    margin-top: 3.2rem;
+    padding: 0 2rem;
+    backface-visibility: hidden;
+}
+
+#projects {
+    background-color: white;
+    color: darkblue;
+    margin-top: -10rem;
+    padding-top: 15rem;
+    font-family: 'Merienda', cursive;
+    font-size: 20px;
+    
+}
+.row {
+    margin-bottom: 8rem;
+}
+
+section {
+    padding: 5rem 0rem;
+} 
+/*footer*/
+.footer {
+    background-color: darkgrey;
+    color:white;
+    padding: 4.8rem 0;
+}
+.social-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+} 
+  
+  /*footer*/
+.back-to-top i {
+    color: white;
+    margin: 1rem 0;
+    transition: all 0.2s ease-in;
+  }
+  /* Call to Action Button */
+.cta-btn {
+    display: inline-block;
+    position: relative;
+    padding: 0.8rem;
+    font-weight: bold;
+    line-height: 1;
+    z-index: 1;
+    transition: all cubic-bezier(0.19, 1, 0.22, 1) 0.6s;
+  }
+  /* Resume Style */
+.cta-btn--resume {
+    color: white;
+    border: 2px solid white;
+  }
+/* Arrow Button */
+.up i {
+    color: #272727;
+  }
+.mb-8 {
+    margin-bottom: 8rem !important;
+  } 
