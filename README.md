@@ -46,9 +46,9 @@ In an effort to better serve our district by furthering my understanding of the 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mblackwellgca&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
+
 ## Screenshot
-![portfolio](assets/images/Portfolio.png)
+![portfolio](./assets/images/Portfolio.png)
 
 <br>
 
