@@ -57,7 +57,9 @@ In an effort to better serve our district by furthering my understanding of the 
 
 ## Resources
 - [Christopher Ponzio](https://github.com/ChristopherPonzio)
-- [Jacobo Martinez](https://github.com/cobidev)
+- [Cobi Martinez](https://github.com/cobiwave)
+- [Alex Harkins](https://github.com/amachkel)
+- [Simple-Icons](https://www.jsdelivr.com/package/npm/simple-icons)
 
 ## Lets Connect!
 
