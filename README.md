@@ -63,7 +63,7 @@ In an effort to better serve our district by furthering my understanding of the 
 
 ## Lets Connect!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mblackwellgca)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/michelle-b-45b5a5224)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mblackwellgca)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/michelle-b-45b5a5224)
 
 ## License
  This application is covererd under MIT. Click the badge to learn more. 
